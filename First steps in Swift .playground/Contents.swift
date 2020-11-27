@@ -30,3 +30,11 @@ var awesome =  pi == compare_pi
 var str_result = "The two compared above is \(awesome) equal."
 
 let taylor = "swift"
+
+let constant_str = "Hello, playground"
+
+let albun: String = "Reputation"
+let year: Int = 1989
+let height: Double = 1.78
+
+let taylorRock: Bool = true
